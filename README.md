@@ -1,6 +1,6 @@
 # CycleGAN_airplanes
 
-This simple training project was developed directly from https://github.com/MingtaoGuo/CycleGAN so visit that link for background and references. Airplane images used from http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/.
+This simple training project was developed directly from https://github.com/MingtaoGuo/CycleGAN so visit that link for background and references. I included 100 airplane images here, but if you would like additional images I retrieved them from http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/.
 
 You will need to install tensorflow, numpy, scipy, and pillow.
 
