@@ -8,4 +8,6 @@ Copy notebook and X and Y images. Create fake_X and fake_Y folders for output im
 
 Once you run this once, you may get an error about a .DS_store file when you run it again. To delete: https://macpaw.com/how-to/remove-ds-store-files-on-mac
 
+Cleaned anime face images were accessed through https://github.com/jayleicn/animeGAN.
+
 
