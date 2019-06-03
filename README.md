@@ -6,6 +6,6 @@ You will need to install tensorflow, numpy, scipy, and pillow.
 
 Copy notebook and X and Y images. Create fake_X and fake_Y folders for output images. As you run notebook, fake images populate.
 
-Once you run this once, you may get an error about .DS_store file below when you run it again. To delete: https://macpaw.com/how-to/remove-ds-store-files-on-mac
+Once you run this once, you may get an error about a .DS_store file when you run it again. To delete: https://macpaw.com/how-to/remove-ds-store-files-on-mac
 
 
